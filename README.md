@@ -1,1 +1,9 @@
-# JobTracker
+<img width="1641" height="1027" alt="image" src="https://github.com/user-attachments/assets/84729e2a-ae96-4996-8db7-375ce69cc34f" />
+<img width="1592" height="1029" alt="image" src="https://github.com/user-attachments/assets/c8ba56a1-5af6-4f8c-bd9a-0509a649c61b" />
+<img width="1680" height="1020" alt="image" src="https://github.com/user-attachments/assets/32be9209-9a69-4863-bfb2-a47169bd265f" />
+<img width="1039" height="732" alt="image" src="https://github.com/user-attachments/assets/c6fc1878-3d83-428d-bd03-afad18bb85d9" />
+<img width="1622" height="1027" alt="image" src="https://github.com/user-attachments/assets/2807359f-196d-497a-9f9c-44823bac3505" />
+<img width="1611" height="1007" alt="image" src="https://github.com/user-attachments/assets/b6b01188-9e93-4918-b9a1-0f165de8d1e2" />
+<img width="1606" height="1015" alt="image" src="https://github.com/user-attachments/assets/ac89c161-edc6-49dc-85e6-28890db6aa7f" />
+<img width="1654" height="968" alt="image" src="https://github.com/user-attachments/assets/ecd88b45-ab40-4d5d-8c33-f82f032211e0" />
+<img width="1068" height="717" alt="image" src="https://github.com/user-attachments/assets/a694f63b-af1e-47d1-a9c9-289e359f6fbc" />
