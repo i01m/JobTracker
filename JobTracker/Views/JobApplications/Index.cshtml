@@ -1,0 +1,40 @@
+﻿@model IEnumerable<JobTracker.Models.JobApplication>
+
+<h2>My Job Applications</h2>
+<br>
+<form asp-action="Index" method="get">
+    <input type="text" name="searchString" placeholder="Search company or position..." class="form-control" style="width:300px; display:inline-block;" />
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<p><a asp-action="Create" class="btn btn-success mt-2">Add New Application</a></p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Position</th>
+            <th>Date Applied</th>
+            <th>Status</th>
+            <th>Notes</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Company</td>
+                <td>@item.Position</td>
+                <td>@item.DateApplied.ToShortDateString()</td>
+                <td>@item.Status</td>
+                <td>@item.Notes</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
